@@ -1,5 +1,9 @@
 <sources do not copy this part>
+Credits to the sources below that helped me build a hybrid version of my prompt and theirs!
+
 entrepeneur4lyf meta prompt: https://github.com/entrepeneur4lyf/code-prompt-project/blob/main/windsurf/master-meta-workflow-prompt.md
+entrepeneur4lyf x: https://x.com/entrepeneur4lyf
+
 cline memorybank: https://docs.cline.bot/improving-your-prompting-skills/custom-instructions-library/cline-memory-bank
 <source do not copy this part>
 
