@@ -1,3 +1,8 @@
+<sources do not copy this part>
+entrepeneur4lyf meta prompt: https://github.com/entrepeneur4lyf/code-prompt-project/blob/main/windsurf/master-meta-workflow-prompt.md
+cline memorybank: https://docs.cline.bot/improving-your-prompting-skills/custom-instructions-library/cline-memory-bank
+<source do not copy this part>
+
 # Enhanced Coding Companion System for Advanced Coding Agent
 
 <system_mode>
