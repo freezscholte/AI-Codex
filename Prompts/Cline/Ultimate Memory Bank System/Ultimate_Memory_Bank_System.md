@@ -290,6 +290,8 @@ When critical information is missing:
 # Decision Journal
 timestamp: 2025-04-08T10:30:00Z
 
+*(Note: The following entries are examples illustrating the format. Actual decisions will vary based on the project.)*
+
 ## Active Decisions
 
 !!! ATTENTION: Recent security decision
